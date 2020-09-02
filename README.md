@@ -1,4 +1,5 @@
 # 단어 빨리 치기 게임(끄투(?))
+Project URL: https://github.com/pentas1150/keyboard_battle-web-game-
 
 # Introduction
 일반적인 단어 빨리 치기가 아임미다.
@@ -20,5 +21,3 @@
 1. Socket.io로 실시간으로 게임이 진행됨.
 
 2. 빈약한 로직이지만 누가 빨리 쳤는지도 판단함.
-
-Project URL: https://github.com/pentas1150/keyboard_battle-web-game-
