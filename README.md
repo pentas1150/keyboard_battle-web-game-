@@ -2,8 +2,8 @@
 Project URL: https://github.com/pentas1150/keyboard_battle-web-game-
 
 # Introduction
-일반적인 단어 빨리 치기가 아임미다.
-쀍쏗얋춽 같은 이상한 단어를 빨리 치는 게임니다 ㅋㅋㅋㅋ
+일반적인 단어 빨리 치기가 아닙니다.
+쀍쏗얋춽 같은 이상한 단어를 빨리 치는 게임입니다.
 
 # Using Tools
 - [Express](https://expressjs.com/): 웹 프레임워크
